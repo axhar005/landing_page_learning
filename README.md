@@ -1,1 +1,1 @@
-# landing_page_learning
+# the odin project classes
