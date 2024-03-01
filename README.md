@@ -1,11 +1,11 @@
 # My Journey Through The Odin Project
 
-Welcome to my GitHub repository dedicated to [The Odin Project](https://www.theodinproject.com/)! My name is Olivier, and I'm a programming student passionate about web development.\
+Welcome to my GitHub repository dedicated to [The Odin Project](https://www.theodinproject.com/)! My name is Olivier, and I'm a programming student passionate about web development.
 This repo is a diary of my journey through the extensive curriculum of The Odin Project, documenting my progress, projects, and challenges along the way.
 
 ## About The Odin Project
 
-The Odin Project is an open-source educational resource that offers a comprehensive curriculum for learning web development. From HTML/CSS to JavaScript and beyond,\
+The Odin Project is an open-source educational resource that offers a comprehensive curriculum for learning web development. From HTML/CSS to JavaScript and beyond,
 The Odin Project guides students through a series of lessons and practical projects to build a strong understanding of web technologies.
 
 ## Goals
