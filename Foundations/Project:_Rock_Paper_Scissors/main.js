@@ -9,16 +9,16 @@ function getComputerChoice() {
 }
 
 function getHumanChoice() {
-	let p;
+	let input;
 	do {
-		p = prompt("rock, paper or scissors ?").toLowerCase();
-		if (!choice.includes(p)){
-			p = null;
+		input = prompt("rock, paper or scissors ?").toLowerCase();
+		if (!choice.includes(input)){
+			input = null;
 			console.log("Wrong value !");
 		}
-	} while (!p);
+	} while (!input);
 
-	return p;
+	return input;
 }
 
 function playRound(humman, computer) {
