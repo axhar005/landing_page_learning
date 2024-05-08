@@ -24,3 +24,10 @@ div_p.textContent = "ME TOO!";
 div.appendChild(div_p);
 
 container.appendChild(div);
+
+
+const btn = document.querySelector("#btn");
+btn.addEventListener("click", function (e) {
+    e.target.style.background = "blue";
+});
+  
