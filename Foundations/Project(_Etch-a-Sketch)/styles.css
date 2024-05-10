@@ -1,0 +1,22 @@
+body {
+    background-color: dimgray;
+}
+
+#colorPicker {
+    display: flex;
+    width: 960px;
+    margin-bottom: 20px;
+}
+
+#container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 960px;
+}
+
+.square {
+    width: 16px;
+    height: 16px;
+    background-color: white;
+    /* outline: 2px solid rgb(0, 0, 0); */
+}
