@@ -3,6 +3,8 @@ let humanScore;
 let computerScore;
 let choice = ["rock", "paper", "scissors"];
 
+
+
 function getComputerChoice() {
 	let rand = Math.floor(Math.random() * choice.length);
 	return (choice[rand]);
