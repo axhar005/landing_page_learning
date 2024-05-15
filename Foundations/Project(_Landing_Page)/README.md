@@ -14,7 +14,7 @@ This landing page project was developed primarily as a visual endeavor to deepen
 
 Here are some screenshots of the landing page:
 
-![Screenshot 1](/Foundations/Project(_Landing_Page)/screenshot/image.png)
+![Screenshot 1](https://i.imgur.com/AUKOF5V.png)
 
 ## How It Works
 
