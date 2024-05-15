@@ -43,7 +43,7 @@ My primary goal is to become a proficient full-stack web developer. Through this
 
 Here, I list the projects I've worked on, with links to the corresponding GitHub repositories and live demos if available.
 
-- **landing page** - [Repo](https://github.com/axhar005/theOdinProject/tree/main/Foundations/Project:_Landing_Page)
+- **landing page** - [Repo](https://github.com/axhar005/theOdinProject/tree/main/Foundations/Project(_Landing_Page))
 
 ## Reflections
 
